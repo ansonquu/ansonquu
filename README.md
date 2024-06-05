@@ -1,4 +1,4 @@
-[header](header.svg)
+![header](header.svg)
 ## Hi there 👋
 
 this is Anson
