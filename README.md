@@ -11,7 +11,8 @@ public class Anson{
 public class Contact{
     public Contact{
         String telegram = "ansonquu";
-        String Email = "i@ansonqu.com";
+        String wechat = "ansonquu";
+        String Email = "i@ansonq.com";
     }
 }
 
@@ -25,8 +26,9 @@ public class Student{
 public class Website{
     public Website{
         super();
-        String homepage = "anson.fun";
-        String blog = "blog.anson.fun";
+        String homepage = "ansonq.com";
+        String blog = "blog.ansonq.com";
+        String EnBlog = "enblog.ansonq.com";
     }
 }
 
