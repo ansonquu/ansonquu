@@ -11,7 +11,7 @@ public class Anson{
 public class Contact{
     public Contact{
         String telegram = "ansonquu";
-        String wechat = "ansonquu";
+        String wechat = "ansonqu08";
         String Email = "i@ansonq.com";
     }
 }
@@ -19,7 +19,8 @@ public class Contact{
 public class Student{
     public Student{
         super();
-        String school = "Qingdao Expermental High School Interntional";
+        String seniorHighSchool = "Dongfang Bilingual Experimental School of Jinan";
+        String highSchool = "Qingdao Expermental High School Interntional";
     }
 }
 
